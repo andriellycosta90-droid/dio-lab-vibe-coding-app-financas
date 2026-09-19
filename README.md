@@ -72,6 +72,7 @@ O aplicativo deve ajudar o usuário a compreender seus gastos, evitando mensagen
 <img width="886" height="495" alt="image" src="https://github.com/user-attachments/assets/cbc85596-6d8e-4dfc-b48b-d487e7f52ba0" />
 <img width="886" height="482" alt="image" src="https://github.com/user-attachments/assets/5ced7118-9f82-463e-9d10-299542d66017" />
 <img width="886" height="505" alt="image" src="https://github.com/user-attachments/assets/158b143e-6d51-47d8-98ea-78f185137273" />
+Link do site: https://couple-coin-conversations.lovable.app/
 
 - Um resumo do que o App ContaAí faz:
 ContaAí é um assistente financeiro para casais que transforma conversas simples em organização financeira, ajudando o casal a saber para onde o dinheiro está indo, quanto ainda pode gastar e como chegar às suas metas.
